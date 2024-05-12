@@ -1,0 +1,19 @@
+{
+  "name": "telecom-backend",
+  "version": "1.0.0",
+  "description": "A telecom backend developed by Ashwin for Altimetrik",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashwin Saxena",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
